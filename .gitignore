@@ -1,0 +1,32 @@
+Большие пальцы.дБ*
+.DS_Store*
+HELP.md
+-грэдл
+сборка/
+цель/
+
+### STS ###
+.apt_generated
+.путь к классу
+.factorypath
+.проект
+.настройки
+. весенние бобы
+. sts4-кэш
+
+## # IntelliJ идея ###
+- идея
+*. iws
+*.iml
+*.ПиС
+вон/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Против кода ###
+.vscode/
